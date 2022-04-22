@@ -3,7 +3,8 @@
 School of Computer Science and Engineering \
 Nanyang Technological University \
 Lab: SC14 \
-Group : 6 \
+Group : 6 
+
 Members: 
 1. Bernice Koh Jun Yan ([@bernicekjy](https://github.com/bernicekjy))
 2. Nepal Aaradh ([@ardnep](https://github.com/ardnep))
