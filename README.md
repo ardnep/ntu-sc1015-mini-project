@@ -1,13 +1,13 @@
-## SC1015: Data Science Mini Project - Unconventionality & Success
+# SC1015: Data Science Mini Project - Unconventionality & Success
 
 School of Computer Science and Engineering \
 Nanyang Technological University \
 Lab: SC14 \
 Group : 6 \
 Members: 
-1. Bernice Koh Jun Yan (@bernicekjy)
-2. Nepal Aaradh (@ardnep)
-3. Veeraraghavan Srivathsan Nithyasri (@Veeraraghavan-S-Nithyasri)
+1. Bernice Koh Jun Yan ([@bernicekjy](https://github.com/bernicekjy))
+2. Nepal Aaradh ([@ardnep](https://github.com/ardnep))
+3. Veeraraghavan Srivathsan Nithyasri ([@Veeraraghavan-S-Nithyasri](https://github.com/Veeraraghavan-S-Nithyasri))
 
 ---
 ### Description:
