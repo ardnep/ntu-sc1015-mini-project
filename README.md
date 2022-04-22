@@ -17,14 +17,13 @@ This README briefly highlights what we have accomplished in this project. If you
 
 ---
 ### Table of Contents:
-1. [Problem Formulation](#1\.-Problem-Formlation)
-2. [Data Preparation and Cleaning](#2\.-Data-Preparation-and-Cleaning)
-3. [Exploratory Data Analysis](#3\.-Exploratory-Data-Analysis)
-4. [Dimensionality Reduction](#4\.-Dimensionality-Reduction)
-5. [Clustering](#5\.-Clustering)
-6. [Data Driven Insights and Conclusion](#6\.-Data-Driven-Insights-and-Conclusion)
-7. [Video](#7\.-Video)
-8. [References](#8\.References)
+1. [Problem Formulation](#1-Problem-Formlation)
+2. [Data Preparation and Cleaning](#2-Data-Preparation-and-Cleaning)
+3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
+4. [Dimensionality Reduction](#4-Dimensionality-Reduction)
+5. [Clustering](#5-Clustering)
+6. [Data Driven Insights and Conclusion](#6-Data-Driven-Insights-and-Conclusion)
+7. [References](#7-References)
 ---
 ### 1. [Problem Formulation](https://github.com/ardnep/ntu-sc1015-mini-project/blob/a1e85b5ec7fdeeaca5ddf6c4cdc55a9e95874124/Part_1_Data_Prep_Cleaning.ipynb)
 
@@ -91,12 +90,7 @@ Here, we re-combined our variables related to success and variables related to c
 
 We found that there were no difference in the distribution of the Salary or the Job Satisfaction among Outliers and Non-outliers (Conventional individuals and non-conventional individuals). So, we concluded that unconventionality might NOT be an indicator of success. 
 
-### 7. Video
-Check out this video we made explaining our project!
-
-https://github.com/ardnep/ntu-sc1015-mini-project/blob/a1e85b5ec7fdeeaca5ddf6c4cdc55a9e95874124/video/video_presentation.mp4
-
-### 9. References
+### 7. References
 1. [https://bookdown.org/brian_nguyen0305/Multivariate_Statistical_Analysis_with_R/what-is-mca.html](https://bookdown.org/brian_nguyen0305/Multivariate_Statistical_Analysis_with_R/what-is-mca.html) 
 2. [https://pca4ds.github.io/mechanics.html](https://pca4ds.github.io/mechanics.html) 
 3. [https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/multivariate/how-to/multiple-correspondence-analysis/interpret-the-results/all-statistics-and-graphs/](https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/multivariate/how-to/multiple-correspondence-analysis/interpret-the-results/all-statistics-and-graphs/)
