@@ -69,7 +69,7 @@ So, **Multiple Correspondence Analysis (MCA)** was used to reduce these dimensio
 Using MCA, the dimensions were reduced from `94` columns to just `42`!
 
 
-### 5. [Clustering](https://github.com/ardnep/ntu-sc1015-mini-project/blob/a1e85b5ec7fdeeaca5ddf6c4cdc55a9e95874124/Part_4_Clustering.ipynb)
+### 5. [Clustering](https://github.com/ardnep/ntu-sc1015-mini-project/blob/56310313487023eea95119db424cf0f41322d7fa/Part_4_Clustering.ipynb)
 
 With these `42` columns, we then performed clustering. We chose the **Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBCAN)**. 
 
