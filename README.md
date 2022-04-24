@@ -84,7 +84,8 @@ More details on HDBSCAN and its parameters are presented in the Jupyter Notebook
 In this section, we performed the following:
 1. Clustering with Random Parameters
 2. Hyperparameter Tuning with GridSearchCV using DBCV Score
-3. Clustering with New Parameters
+3. Readjusting Parameters (GridSearchCV does not work well in this case)
+4. Clustering with New Parameters
 
 Our final clustering resulted in a total of `3` clusters and `6206` outliers (out of `19362` total points).
 
