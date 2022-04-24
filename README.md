@@ -107,4 +107,5 @@ Most notably, however, we found that there were no difference in the distributio
 8. [https://github.com/christopherjenness/DBCV](https://github.com/christopherjenness/DBCV)
 9. [https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html](https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html)
 10. [https://www.youtube.com/watch?v=dGsxd67IFiU](https://www.youtube.com/watch?v=dGsxd67IFiU)
+11. [https://towardsdatascience.com/tuning-with-hdbscan-149865ac2970](https://towardsdatascience.com/tuning-with-hdbscan-149865ac2970)
 
